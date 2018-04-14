@@ -6,7 +6,8 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor.
+   * @param someone the name of a person.
+   * @return greeting String
    */
   public Greeter() {
 
